@@ -2,3 +2,9 @@
 # this is another comment
 
 print 'hello world'
+print '2nd time now'
+print 'howdy world?'
+
+
+
+print 'no business like show business'
